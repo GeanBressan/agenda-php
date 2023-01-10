@@ -14,7 +14,7 @@
 </head>
 <body>
     <div class="container mx-auto">
-        <h1 class="text-5xl font-black text-center text-sky-800 uppercase mt-10">
+        <h1 class="text-2xl sm:text-5xl font-black text-center text-sky-800 uppercase mt-10">
             Deletar Contato 
         </h1>
         <table class="table-fixed border-collapse border border-sky-800 mx-auto mt-10">

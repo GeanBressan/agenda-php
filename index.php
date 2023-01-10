@@ -15,7 +15,7 @@ require_once "main.php";
 
 <body>
     <div class="container mx-auto">
-        <h1 class="text-5xl font-black text-center text-sky-800 uppercase mt-10">
+        <h1 class="text-2xl sm:text-5xl font-black text-center text-sky-800 uppercase mt-10">
             Lista de contatos
             <a class="bg-green-500 hover:bg-green-600 text-white rounded px-4 pb-2" href='add.php'>+</a>
         </h1>
@@ -35,7 +35,7 @@ require_once "main.php";
                         </form>
                     ";
                 echo "
-                            <table class='table-fixed border-collapse border border-sky-800 mx-auto mt-10'>
+                            <table class='w-5/6 table-auto border-collapse border border-sky-800 mx-auto mt-10 px-10'>
                                 <thead>
                                     <tr class='border border-sky-5800'>
                                         <th class='border border-sky-800 p-2 text-sky-800 uppercase'>Nome</th>
